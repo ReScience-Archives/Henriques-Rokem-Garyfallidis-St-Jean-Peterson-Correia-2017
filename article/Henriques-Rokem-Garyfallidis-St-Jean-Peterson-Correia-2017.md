@@ -34,7 +34,7 @@ Reviewer:
 Publication:
   received:  Dec,  2, 2016
   accepted:  Mar, 30, 2017
-  published: Apr, , 2017
+  published: Apr, 5, 2017
   volume:    "**3**"
   issue:     "**1**"
   date:      Apr 2017
