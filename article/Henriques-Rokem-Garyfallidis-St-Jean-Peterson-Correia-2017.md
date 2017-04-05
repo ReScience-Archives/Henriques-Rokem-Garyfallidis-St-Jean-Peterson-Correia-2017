@@ -260,6 +260,16 @@ SNR levels, the lower panels of the original article's Figure 4 were replicated.
 synthetic data was generated for six different acquisition parameters sets that are 
 summarized in Table @tbl:table2.
 
+Although Hoy et al. (2014) only reported the latter analysis for the higher FA
+level, here the lower FA values of 0 was also assessed. According to the original
+article, this optimization analysis was also done for the fixed f-value of 0.5.
+As the previous two simulations, tests were repeated 12000 times (for 120 diffusion tensor
+direction each repeated 100 times). Fitting
+performances was quantified using the mean squared error of the the free water DTI
+FA, $f$ and MD estimates (see Simulation 2).
+
+\clearpage
+
 Table: The six different acquisition parameter set tested {#tbl:table2}
 
 Number of shells  b-values ($s/mm^{2}$)                      Directions per shell          
@@ -271,15 +281,6 @@ Number of shells  b-values ($s/mm^{2}$)                      Directions per shel
 8                 300/471/643/814/986/1157/1329/1500         8 per shell
 16                300/380/460/540/620/700/780/860/940/       4 per shell
                   1020/1100/1180/1250/1340/1420/1500
-
-Although Hoy et al. (2014) only reported the latter analysis for the higher FA
-level, here the lower FA values of 0 was also assessed. According to the original
-article, this optimization analysis was also done for the fixed f-value of 0.5.
-As the previous two simulations, tests were repeated 12000 times (for 120 diffusion tensor
-direction each repeated 100 times). Fitting
-performances was quantified using the mean squared error of the the free water DTI
-FA, $f$ and MD estimates (see Simulation 2).
-
 
 ## *In vivo* data
 
