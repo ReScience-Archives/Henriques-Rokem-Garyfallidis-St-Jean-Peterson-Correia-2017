@@ -1,4 +1,4 @@
-SOURCE   = Name-YEAR
+SOURCE   = Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017
 MDFILE   = $(SOURCE).md
 BIBFILE  = bibliography.bib
 TEXFILE  = $(SOURCE).tex
