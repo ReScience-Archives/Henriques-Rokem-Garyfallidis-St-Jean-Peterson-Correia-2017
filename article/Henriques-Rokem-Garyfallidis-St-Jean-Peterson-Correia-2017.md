@@ -27,22 +27,23 @@ Address:
 Contact:
   - rafaelnh21@gmail.com
 Editor:
-  - Name Surname
+  - Pierre de Buyl
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Marc-André Delsuc
+  - Matt G Hall
 Publication:
-  received:  Sep,  1, 2015
-  accepted:  Sep, 1, 2015
-  published: Sep, 1, 2015
-  volume:    "**1**"
+  received:  Dec,  2, 2016
+  accepted:  Mar, 30, 2017
+  published: Apr, , 2017
+  volume:    "**3**"
   issue:     "**1**"
-  date:      Sep 2015
+  date:      Apr 2017
+  number: 2
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
+  article:   "https://github.com/ReScience-Archives/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017/tree/master/article"
+  code:      "https://github.com/ReScience-Archives/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017/tree/master/code"
   data:      
-  notebook:  
+  notebook:  "https://github.com/ReScience-Archives/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017/tree/master/notebook"
 Reproduction:
   - "Hoy, A.R., Koay, C.G., Kecskemeti, S.R., Alexander, A.L. (2014).
 Optimization of a free water elimination two-compartment model for diffusion
